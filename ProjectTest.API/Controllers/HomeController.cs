@@ -18,7 +18,7 @@ namespace ProjectTest.API.Controllers
         public string Get()
         {
             _logger.LogInformation("Initial Home Get");
-            return "Net Core 5.0 Running ... 18092021-v1.0.1 CD CXT 0625 in AKS";
+            return "Net Core 5.0 Running ... 18092021-v1.0.1 CD CXT 0644 in AKS";
         }
     }
 }
